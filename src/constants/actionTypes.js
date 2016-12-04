@@ -1,0 +1,7 @@
+module.exports = {
+    // REGION ACTIONS
+    UPDATE_REGION: 'UPDATE_REGION',
+
+    // MARKERS ACTIONS
+    ADD_MARKER: 'ADD_MARKER'
+};
